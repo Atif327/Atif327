@@ -8,6 +8,20 @@
 
 ---
 
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://atif-portfolio-nine.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  ✨ Check out my projects, skills, and experience in a modern interactive portfolio
+</p>
+
 <!-- ================= ABOUT ================= -->
 ## 💫 About Me
 
