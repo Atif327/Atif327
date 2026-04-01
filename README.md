@@ -58,7 +58,10 @@
   📧 <b>Email:</b> atifayyoub582@gmail.com <br/>
   📱 <b>Phone / WhatsApp:</b> +92 327 0728950
 </p>
+
 ---
+
+
 ## 💻 Tech Stack
 
 <table align="center">
