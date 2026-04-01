@@ -80,14 +80,6 @@
 </p>
 
 
-<!-- ================= TROPHIES ================= -->
-## 🏆 GitHub Achievements
-
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Atif327&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <!-- ================= GRAPH ================= -->
 ## 📈 Contribution Graph
