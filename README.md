@@ -100,7 +100,7 @@
 ## 👀 Profile Views
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Atif327&icon=5&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=Atif327&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
