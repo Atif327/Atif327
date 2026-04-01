@@ -71,14 +71,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atif327&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Atif327&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Atif327&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=Atif327&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atif327&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atif327&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
 ---
 
 ## 🏆 GitHub Trophies
