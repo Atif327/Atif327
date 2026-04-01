@@ -36,21 +36,28 @@
 
 ---
 
-<!-- ================= SOCIAL ================= -->
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.youtube.com/@Meetha_Islam-v7q">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
+  
   <a href="mailto:atifayyoub582@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://mastodon.social/@atifayyoub">
-    <img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" />
+  
+  <a href="https://wa.me/923270728950" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  
+  <a href="tel:+923270728950">
+    <img src="https://img.shields.io/badge/Call-0A66C2?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+
 </p>
 
+<p align="center">
+  📧 <b>Email:</b> atifayyoub582@gmail.com <br/>
+  📱 <b>Phone / WhatsApp:</b> +92 327 0728950
+</p>
 ---
 ## 💻 Tech Stack
 
