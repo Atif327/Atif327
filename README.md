@@ -40,43 +40,59 @@
 </p>
 
 ---
-
-<!-- ================= TECH STACK ================= -->
-<!-- ================= TECH STACK ================= -->
 ## 💻 Tech Stack
 
+<table align="center">
+<tr>
+<td width="50%">
+
 ### 🧠 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,php" />
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,php" />
 </p>
 
-### 🎨 Frontend Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
+</td>
+<td width="50%">
+
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,vite" />
 </p>
 
-### ⚙️ Backend & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet" />
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet" />
 </p>
+
+</td>
+<td width="50%">
 
 ### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" />
 </p>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
 
 ### ☁️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,apache,figma,git,github,jira" />
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,vercel,apache,figma,git,github,jira" />
 </p>
 
----
+</td>
+</tr>
+</table>
 
-## 📊 Languages Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atif327&layout=compact&hide_border=true&title_color=ff4da6&text_color=ffffff&bg_color=1a1b27" height="180"/>
-</p>
 
 <!-- ================= STATS ================= -->
 ## 📊 GitHub Stats
